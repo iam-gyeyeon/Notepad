@@ -1,2 +1,0 @@
-# Notepad
-Project Notepad
